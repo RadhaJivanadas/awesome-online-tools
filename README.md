@@ -57,6 +57,8 @@
 - **[Lighthouse](https://developer.chrome.com/docs/lighthouse/)** — Google's open-source auditor for performance, accessibility, SEO, and best practices.
 - **[Unlighthouse](https://unlighthouse.dev/)** — Open-source tool that runs Lighthouse across every page of a site in one scan.
 
+- **[Firm Beacon On-Page SEO Checker](https://www.firmbeacon.co.uk/tools/seo-checker?utm_source=github&utm_medium=awesome_list&utm_campaign=awesome_online_tools)** - Check one public page's title, meta description, H1, canonical, robots, language, viewport and Open Graph tags without an account.
+
 ## Time & Date
 
 - **[worldclock.tools](https://worldclock.tools/)** — Live local time for 34,000+ cities, a cross-timezone meeting planner, and 36 converters, timers, and developer utilities — all computed from the IANA time zone database.
