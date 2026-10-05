@@ -35,6 +35,7 @@
 - **[IT-Tools](https://it-tools.tech/)** — An open-source, self-hostable collection of everyday developer utilities — converters, generators, and formatters — in one clean interface.
 - **[DevToys](https://devtoys.app/)** — An open-source offline "developer's Swiss Army knife" bundling formatters, converters, and generators into a native app.
 - **[Transform.tools](https://transform.tools/)** — Convert between dozens of formats: JSON to TypeScript, SVG to JSX, CSS to JS, GraphQL to code, and many more.
+- **[JSON formatter and validator](https://www.firmbeacon.co.uk/tools/json-formatter?utm_source=github&utm_medium=repository&utm_campaign=json_formatter)** — Format, minify and validate JSON locally in your browser. No signup, and the JSON text is not uploaded or saved.
 
 ## Data & Testing
 
